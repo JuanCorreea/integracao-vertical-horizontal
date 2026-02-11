@@ -1,5 +1,3 @@
-# integracao-vertical-horizontal
-
 # Integração Vertical
 Focada na hierarquia interna da organização, garantindo que o chão de fábrica esteja conectado às instâncias estratégicas.
 
@@ -13,5 +11,3 @@ Focada na conexão de toda a **cadeia de valor**, integrando processos internos 
 * Conectividade: Une fornecedores, produção, logística, distribuidores e clientes.
 * Colaboração: Integra áreas internas e agentes externos da cadeia produtiva.
 * Impacto: Elimina silos organizacionais, reduz conflitos entre departamentos e promove um fluxo contínuo de dados entre processos.
-
----
